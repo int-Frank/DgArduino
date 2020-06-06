@@ -1,2 +1,2 @@
 # DgArduino
-A library for the Arduino
+A collection of useful tool for use for the Arcuino family of boards.
